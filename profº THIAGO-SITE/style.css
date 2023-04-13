@@ -1,0 +1,12 @@
+.cabeçalho{
+    background-color: rgb(119, 208, 51);
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.alura_imagem{
+    width: 15%;
+}
+.texto_alura{
+    margin: 9'0px;
+}
